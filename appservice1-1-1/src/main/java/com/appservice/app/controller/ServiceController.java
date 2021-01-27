@@ -23,5 +23,8 @@ public class ServiceController {
 	@RequestMapping("/article/sectionTop")
 	public void sectionTop() {}
 
+	@RequestMapping("/article/sectionBottom")
+	public void sectionBottom() {}
+
 	
 }

@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+
+.carousel-img {
+
+	width :1080px;
+	height : 400px;
+	object-fit: cover;
+}
+
+
+.subtitle{
+	font-size:11px;
+	font-weight: bold;
+}
+
+.tab-image {
+	margin: 5px;
+	padding : 5px;
+	width: 45%;
+	height:420px;
+}
+
+.img-titles {
+	line-height: 90px;
+	font-weight: bold;
+}
+
+.img-subtitle {
+	line-height: 1.6em;
+}
+
+.shoptag span {
+	margin:5px;
+}
+
+.tab-image-free {
+	
+	margin: 5px;
+	width: 70%;
+	height:420px;
+}
