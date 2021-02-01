@@ -26,5 +26,15 @@ public class ServiceController {
 	@RequestMapping("/article/sectionBottom")
 	public void sectionBottom() {}
 
+
+	@RequestMapping("/reservationMain")
+	public void reservationMain() {}
+	
+	
+	@RequestMapping("/reservation/reserv")
+	public void reserv() {}
+	
+	
+	
 	
 }
