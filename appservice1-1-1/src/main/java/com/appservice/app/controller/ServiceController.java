@@ -35,6 +35,11 @@ public class ServiceController {
 	public void reserv() {}
 	
 	
+	@RequestMapping("/member/login")
+	public void login() {}
+	
+	@RequestMapping("/member/signup")
+	public void signup() {}
 	
 	
 }

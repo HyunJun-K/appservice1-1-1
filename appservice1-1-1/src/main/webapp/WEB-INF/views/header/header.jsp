@@ -24,11 +24,11 @@
   <div class="collapse navbar-collapse" id="navbarNavDropdown">
     <ul class="navbar-nav ml-auto ">
       <li class="nav-item ">
-        <a class="a-item nav-link text-dark" href="#"> 로그인 </a>
+        <a class="a-item nav-link text-dark" href="member/login"> 로그인 </a>
       </li>
      
       <li class="nav-item">
-        <a class="a-item nav-link text-dark" href="#"> 회원가입 </a>
+        <a class="a-item nav-link text-dark" href="member/signup"> 회원가입 </a>
       </li>
       
       <li class="nav-item text-white">
